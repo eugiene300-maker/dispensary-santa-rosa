@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "dispensary-santa-rosa",
+    "public": ".",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
